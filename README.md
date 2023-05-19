@@ -2,6 +2,7 @@
 # List-of-ChatGPT-plugin
 
 I found it is hard to search all available ChatGPT plugins, so I made this list.
+
 | Name | Description for human|
 | ---- | ---- | 
 | BuyWisely | Compare Prices & Discover the Latest Offers from thousands of online shops in Australia. |
