@@ -5,24 +5,43 @@ I found it is hard to search all available ChatGPT plugins, so I made this list.
 
 | Name | Description for human|
 | ---- | ---- | 
+| APEX Map | Checking the current APEX Legends Ranked Map. |
+| GoFynd | Elevate your shopping experience with GoFynd. |
 | GetYourGuide | Find tours, excursions and other travel activities. |
+| Substack IQ | Search, analyze, & summarize Substack newsletters, retrieve articles, and discover new Substacks! |
+| Meme Creator | Use Meme Creator to create memes on demand using the power of AI! |
 | Klook | From local escapes to far flung adventures, find the best experiences, tours, hotels and transport options anywhere. |
 | Boolio | The easiest way to analyze global stock values with the power of quantitative factor methodologies. |
+| Sakenowa | Find Sake and get detailed information in various ways. |
 | QuickRecall | Create flashcards and review them with spaced repeition. |
-| Ask MFM | Ask the hosts of the My First Million questions about business, tech, entrepreneurship, and life. |
 | ChatWithVideo | Ask questions, analyzing, and parsing through YouTube videos by simply providing a YouTube video URL. |
+| Weather | Provides weather forecast based on location. Includes temperature, precipitation, cloud cover, wind and much more. |
 | Planfit | Get your tailored workout plan and instructions with videos - AI-powered Workout Coach, Planfit. |
+| Questmate Forms | Create forms, checklists and workflows (we call 'em Quests!) directly from ChatGPT. |
+| Mindart | Career test to help you find your dream job, with automation risk and average salary. |
+| AmazingTalker | Elevate your language learning at any level with personalized 1-on-1 online lessons from tutors across the world. |
 | ndricks Sports | Get information about pro teams (NHL, NBA, NFL, MLB) teams by calling the ndricks Software Sports API. |
+| HTTP Webhooks | Allows you to write, deploy, and manage HTTP Webhooks in JavaScript, right from the chat. |
+| ChatWithWebsite | Have a conversation with any website, powered by magicform.ai |
+| Easy Resume | Quickly create and edit your resume with the option to download as a docx or pdf, and find the job you deserve! |
+| Outschool | Search for top-quality online classes and teachers on Outschool. |
 | Ai Tool Hunt | Explore the ideal AI solutions for all use cases, drawn from the most comprehensive global database of AI tools. |
 | Website Performance | Measure key metrics about your website - performance, accessibility, best practices, SEO, PWA. |
+| SEO Assistant | The SEO Assistant can generate search engine keyword information in order to aid the creation of content. |
 | FundsDB | Discover funding opportunities in UK and India on FundsDB. Type in your query in any language or /help for assistance. |
 | Currency Converter | Convert currencies based on real-time rates. |
+| JiggyBase | Use the knowledge in your JiggyBase document collections to help produce factual, up-to-date chat responses. |
 | Abridged Due Diligence | Discover the details! Search through recent SEC filings, with links to deeper analysis. |
+| Agones | Agones provides soccer (football) results for matches played all over the world in the past 15 years. |
+| Web Requests | Goodbye Knowledge Cutoff, Hello World! This is your AI assistant's web browser. Just enter a URL. Google, Wiki, GitHub. |
+| LawyerPR | Matching your ideal lawyer, in Japan. Let's Start with a Preliminary Review. |
 | ChatSpot | Get access to marketing/sales data including domain information, company research and search keyword research. |
 | UK Latest News | Get the latest news stories from the UK's top news outlets including BBC News, Sky News, The Independent, and others. |
 | Xpapers | Effortlessly find real academic papers on arXiv. Dive into abstracts, references, and access public PDF URLs. |
 | QuakePH | Stay updated with the latest earthquakes in the Philippines. |
+| Paxi AI | Let AI tools speed up your tasks! Make it easy to find the right tool for the task. |
 | RoboAd | Your AI powered Ad Assistant! |
+| Bibliography Crossref | Search publications and generate bibtex bibliographies using Crossref and Zotero. |
 | BuyWisely | Compare Prices & Discover the Latest Offers from thousands of online shops in Australia. |
 | Statis Fund Finance | Financial data tool for analyzing equities. You can get price quotes, analyze moving averages, RSI, and more. |
 | Penrose Analyst | Search global news and research papers. Summarize Arxiv.org links. Ask me for the latest news! |
@@ -35,6 +54,8 @@ I found it is hard to search all available ChatGPT plugins, so I made this list.
 | PortfoliosLab | Stocks, ETFs, funds, crypto analysis: historical performance, volatility, risk metrics, Sharpe ratio, drawdowns, etc. |
 | DAIZY | Deep insights on ETFs, stocks, cryptos. Institutional-grade data: performance, risk, sustainability, research. |
 | Creature Generator | Creates a random creature and an image it for use in role playing games. |
+| Calorie Chat | Tracking what you eat doesn't have to be hard. With Calorie Chat, you'll find calorie counting simpler than ever before. |
+| DeployScript | DeployScript effortlessly launches web apps, handling the tech for you. Watch your ideas come to life! |
 | Career Copilot | A trusted, always on assistant to help software developers find a better job. Built by Commit.dev. |
 | World News | Summarize news headlines. You can ask for the latest news from various sources around the world. |
 | CoinCap | Get cryptocurrency information from CoinCap. |
@@ -60,11 +81,13 @@ I found it is hard to search all available ChatGPT plugins, so I made this list.
 | SEO.app | Your personal SEO assistant for content marketing. |
 | Yabble | Create insights instantly.  Any audience. Any question.  Yabble it. |
 | Polygon | Market data, news, and fundamentals for stocks, options, forex, and crypto from Polygon.io. |
+| ChatWithPDF | Chat with everything from entire PDF books to Google Drive documents just by providing a link. |
 | Photorealistic | Generate Photorealistic prompts for Midjourney. |
 | Clinical Trial Radar | Discover current info on global clinical trials, organizations, diseases, and biomarkers from public & private studies. |
 | Show Me | Create and edit diagrams directly in chat. |
 | Turo | Search for the perfect Turo vehicle for your next trip. |
 | Open Lecture | Discover and access the right moments in open course lectures for targeted learning. |
+| Crypto Market News | It's your go-to solution for real-time cryptocurrency price updates, market insights, and the latest news. |
 | edX | Find courses and content from leading universities to expand your knowledge at any level. |
 | Change | Discover impactful nonprofits to support in your community and beyond. |
 | Metaphor | Access the internet's highest quality content. Recommended by people, powered by neural search. |
@@ -81,6 +104,7 @@ I found it is hard to search all available ChatGPT plugins, so I made this list.
 | Coupert | Search for the internet’s best coupons from thousands of online stores. |
 | Wishbucket | Unified product search across all Korean platforms and brands. |
 | Yay! Forms | Allows you to create AI-Powered Forms, Surveys, Quizzes, or Questionnaires on Yay! Forms. |
+| AutoInfra1 | Talk to your Servers. Works with AWS, GCP, Azure, and anywhere you can ssh! |
 | Glowing | Schedule and send daily SMS messages - reminders, inspiration, helpers and more. |
 | ABCmouse | Provides fun and educational learning activities for children 2-8 years old. |
 | Hubbub | Local health risk & safety guidance for COVID-19, Flu, RSV and more in the US. |
@@ -94,6 +118,7 @@ I found it is hard to search all available ChatGPT plugins, so I made this list.
 | Savvy Trader AI | Realtime stock, crypto and other investment data. |
 | Golden | Get current factual data on companies from the Golden knowledge graph. |
 | Lexi Shopper | Get product recommendations from your local Amazon store. |
+| Acquire.com | Everything you need to buy and sell startups. |
 | Keyplays Live Soccer | Latest live soccer standings, results, commentary, tv stations, keyplays (with and without scores). |
 | Chess | Unleash your inner chess master with this interactive chess experience! You can play against a novice or a grandmaster! |
 | BlockAtlas | Search the US Census! Find data sets, ask questions, and visualize. |
@@ -110,6 +135,7 @@ I found it is hard to search all available ChatGPT plugins, so I made this list.
 | Manorlead | Get a list of listings for rent or sale in cities across Canada and the US based on your search criteria. |
 | SEO CORE AI | Use AI to analyze and improve the SEO of a website. Get advice on websites, keywords and competitors. |
 | KalendarAI | KalendarAI sales agents generate revenue with potential customers from 200+ million companies globally. |
+| Appy Pie App Builder | AI-powered Text-to-App Generator turns your app idea into Android and iOS apps- just provide text input. |
 | Algorithma | Shape your virtual life with in this immersive life simulator game to begin Type /start to begin. |
 | CreatiCode Scratch | Display Scratch programs as images and write 2D/3D programs using CreatiCode Scratch extensions. |
 | Video Insights | Interact with online video platforms like Youtube or Daily Motion. |
@@ -119,7 +145,9 @@ I found it is hard to search all available ChatGPT plugins, so I made this list.
 | Tabelog | Allows you to find restaurants in Japan that have availability for reservations. |
 | Speechki | The easiest way to convert texts to ready-to-use audio — download link, audio player page, or embed! |
 | Magnetis | Magnetis is a digital wealth manager. Get updated data on portfolios returns and allocations. Ask me about Magnetis. |
+| AI2sql | Converts a natural language text into an SQL query. |
 | Hauling Buddies | Locate dependable animal transporters using recommendations, reviews, and regulatory compliance search features. |
+| SceneXplain | SceneXplain lets you attach images to your prompt. Explore image storytelling beyond pixels. |
 | Giftwrap | Ask about gift ideas for any occasion and recipient. Get it wrapped and delivered, no address needed. |
 | BizToc | Search BizToc for business & finance news. |
 | Speak | Learn how to say anything in another language with Speak, your AI-powered language tutor. |
@@ -130,4 +158,5 @@ I found it is hard to search all available ChatGPT plugins, so I made this list.
 | Zapier | Interact with over 5,000+ apps like Google Sheets, Gmail, HubSpot, Salesforce, and thousands more. |
 | Expedia | Bring your trip plans to life – get there, stay there, find things to see and do. |
 | Instacart | What’s cookin'? Ask about recipes, meal plans, & more -- and get ingredients delivered from 40,000+ stores! |
+| Klarna Shopping | Search and compare prices from thousands of online shops. Only available in the US. |
 | KAYAK | Search flights, stays & rental cars or get recommendations where you can go on your budget. |

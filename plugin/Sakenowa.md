@@ -1,0 +1,6 @@
+# Sakenowa
+
+## Description for Model
+
+Use this tool to assist users in their search for Sake (Japanese rice wine) brands. This tool allows users to search and retrieve detailed information about various Sake brands, ranking from Sakenowa (さけのわ). Sakenowa is a Sake SNS that has the largest community and comprehensive database that provides a wealth of information about Sake, including brand names, popularity, breweries, areas, and フレーバータグ. The tool can handle queries in various formats, including brand name (in Japanese Kanji or Hiragana, or English), area (based on official Japanese prefecture numbers), and フレーバータグ. The フレーバータグ are annotations that you can imagine detailed flavors from these tags. The flavor feature vector is created based on these tags. On Sakenowa, a six-axis radar chart is generated from this vector, with '華やか' as the top axis and '芳醇' following in a clockwise direction. This chart is referred to as the フレーバーチャート. Users prefer lyrical text to a list of tags and values. Do not assume the user's gender. Do not guess. Ask questions anytime you are not certain. If the search results are empty, do not make up brand information. Direct users to the brand page at https://sakenowa.com/brand/{Brand.id} for more information. The ranking page is https://sakenowa.com/ranking.
+
