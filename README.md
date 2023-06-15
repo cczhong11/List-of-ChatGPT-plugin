@@ -328,7 +328,7 @@ I found it is hard to search all available ChatGPT plugins, so I made this list.
 | Yay! Forms | Allows you to create AI-Powered Forms, Surveys, Quizzes, or Questionnaires on Yay! Forms. |
 | AutoInfra1 | Talk to your Servers. Works with AWS, GCP, Azure, and anywhere you can ssh! |
 | Glowing | Schedule and send daily SMS messages - reminders, inspiration, helpers and more. |
-| ChatSSHPlug | Ability to SSH into your server and turn your natural language into server commands.  |
+| ChatSSHPlug | Ability to SSH into your server and turn your natural language into server commands. |
 | txyz.ai | Effortlessly decipher, compare, and answer questions about research papers using a simple Arxiv ID. |
 | ABCmouse | Provides fun and educational learning activities for children 2-8 years old. |
 | Hubbub | Local health risk & safety guidance for COVID-19, Flu, RSV and more in the US. |
@@ -338,8 +338,7 @@ I found it is hard to search all available ChatGPT plugins, so I made this list.
 | Zillow | Your real estate assistant is here! Search listings, view property details, and get home with Zillow. |
 | ScholarAI | Unleash scientific research: search 40M+ peer-reviewed papers, explore scientific PDFs, and save to reference managers. |
 | Clearbit | Access Clearbit Enrichment, Prospecting, Reveal APIs and website visitors data to access information about companies. |
-| Definitive Facts | Ask questions using 100+ relational datasets - sports, finance, and more at https://definitive.io/datasets.
- |
+| Definitive Facts | Ask questions using 100+ relational datasets - sports, finance, and more at https://definitive.io/datasets. |
 | AITickerChat | Retrieve USA stock insights from SEC filings as well as Earnings Call Transcripts. |
 | Trip.com | Discover the ultimate travel companion - simplify your flight and hotel bookings. Enjoy your effortless trip! |
 | Savvy Trader AI | Realtime stock, crypto and other investment data. |
