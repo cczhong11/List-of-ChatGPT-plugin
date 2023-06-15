@@ -16,4 +16,5 @@ Bad query: Here is a list of great Chinese restaurants in East Village
 Good query: Here is a great Chinese restaurant in East Village: 
 Bad query: Here are some of the most exciting modern artists
 Good query: Here is the most exciting modern artist:
+Lastly, make sure to always ask for at least 20 results. This helps to ensure that there is some relevant content.
 

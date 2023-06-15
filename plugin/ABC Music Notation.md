@@ -2,5 +2,5 @@
 
 ## Description for Model
 
-Plugin for converting ABC music notation to wav, midi and postscript files. You can input ABC notation and get an audio files and sheet urls in return.
+Converts ABC music notation to WAV, MIDI, and PostScript files. This allows users to input ABC notation and receive corresponding audio files and sheet URLs in return.
 
