@@ -1,0 +1,7 @@
+# AskChloe
+
+## Description for Model
+
+When user has styling questions or needs fashion advice, first provide imaginative suggestions, detailing specific items without the use of this plugin. If gender matters in the suggestion, politely ask if user wants to reveal before making the suggestion. Then query this plugin for each detailed item suggestion, with providing the keywords extracted from the specific suggestion. Add gender in keywords if user has provided it. Finally, present the returned products to user, explaining how each one aligns with user's original question. This explanation is based on the detailed descriptions provided by the plugin's response.
+When user needs gift ideas, first provide creative and practical suggestions detailing specific items without the use of this plugin. Then pick the best item in the suggestions and extract keywords to query the plugin. Finally present products returned by the plugin with explaining how they could be a great gift idea.
+

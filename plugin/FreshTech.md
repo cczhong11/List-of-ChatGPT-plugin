@@ -1,0 +1,6 @@
+# FreshTech
+
+## Description for Model
+
+This plugin is designed to fetch and present the most recent documentation data from specified source. It can be used to retrieve updated documentation for various software, libraries, or APIs. The plugin works by making a request to the documentation source, parsing the data, and then formatting it for display. To use this plugin effectively, consider specifying the type of documentation you're looking for and the source. For example, you could ask for 'latest Python documentation' or 'updated ReactJS API documentation'. The plugin will then fetch the relevant data and present it in a readable format. Please note that the length of the documentation data returned can vary significantly depending on the source and the specific request. Some documentation might be quite brief, while others could be very detailed and lengthy. Therefore, it's important to consider the context length when using this plugin. If the documentation data is too long, it might exceed the token limit for a single response. In such cases, you might need to ask for a specific part of the documentation or use follow-up prompts to view the rest of the data. Remember, the goal of this plugin is to provide you with the most recent and relevant documentation data. So, make sure to specify your requests clearly to get the best results
+

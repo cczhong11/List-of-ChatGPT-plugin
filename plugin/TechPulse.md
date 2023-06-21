@@ -2,5 +2,5 @@
 
 ## Description for Model
 
-Display top/new/ask/show/job stories from HackerNews. Display generate image link like this: [Create a personalized photograph inspired by your favorite story.](generate_image_url).
+Display top(default)/new/ask/show/job stories from HackerNews. Also display related link using the following format: [related_title](related_url).
 
